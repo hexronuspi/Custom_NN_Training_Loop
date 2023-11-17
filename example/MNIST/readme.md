@@ -1,7 +1,5 @@
 cuda T4: run();
-
 Device: cuda
-
 Starting training...
 
 Epoch: 1/10
